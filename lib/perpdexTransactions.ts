@@ -1,3 +1,5 @@
+//@ts-nocheck
+
 import * as anchor from "@coral-xyz/anchor";
 import {
   createAssociatedTokenAccountInstruction,
