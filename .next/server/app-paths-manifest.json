@@ -1,0 +1,9 @@
+{
+  "/api/positions/route": "app/api/positions/route.js",
+  "/wallet/page": "app/wallet/page.js",
+  "/api/wallet/route": "app/api/wallet/route.js",
+  "/api/chat/route": "app/api/chat/route.js",
+  "/page": "app/page.js",
+  "/dashboard/page": "app/dashboard/page.js",
+  "/app/page": "app/app/page.js"
+}
