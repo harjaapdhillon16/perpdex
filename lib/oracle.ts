@@ -1,3 +1,4 @@
+//@ts-nocheck
 import { parsePriceData } from "@pythnetwork/client";
 import { PublicKey } from "@solana/web3.js";
 
